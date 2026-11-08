@@ -1,0 +1,10 @@
+{
+  "id": "fix-order-pricing",
+  "prompt": "The order pricing tests are failing. Make all tests pass. Do not modify test files.",
+  "tags": ["bugfix", "node"],
+  "timeout_sec": 300,
+  "grader": {
+    "type": "command",
+    "command": "sh /grader/grade.sh"
+  }
+}

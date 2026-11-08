@@ -1,0 +1,3 @@
+{
+  "orders": { "command": "npx", "args": ["tsx", "10-mcp/src/server.ts"] }
+}

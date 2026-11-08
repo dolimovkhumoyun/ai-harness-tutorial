@@ -1,0 +1,6 @@
+node_modules/
+.env
+traces/
+**/traces/
+**/results/
+.DS_Store
